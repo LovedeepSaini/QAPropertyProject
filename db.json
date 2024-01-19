@@ -1,0 +1,269 @@
+{
+  "seller": [
+    {
+      "firstName": "Andy",
+      "surname": "Smith",
+      "address": "4 Ulster plc",
+      "postcode": "EH11 1LP",
+      "phone": "234465568768566676",
+      "id": 7
+    },
+    {
+      "firstName": "Stephanie ",
+      "surname": "Hill",
+      "address": "brecon Town, Brecon",
+      "postcode": "BR1 2JE",
+      "phone": "123456788",
+      "id": 8
+    },
+    {
+      "firstName": "Jade",
+      "surname": "Song",
+      "address": "Sichuan, China",
+      "postcode": "1131321",
+      "phone": "0808089000",
+      "id": 9
+    },
+    {
+      "firstName": "Goerge",
+      "surname": "sd",
+      "id": 10,
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "phone": "43344456"
+    },
+    {
+      "firstName": "Rykar",
+      "surname": "bikes",
+      "address": "12/2",
+      "postcode": "EH11 1LP",
+      "phone": "02089402333",
+      "id": 38
+    },
+    {
+      "firstName": "Goerge",
+      "surname": "Pal",
+      "address": "23 gg",
+      "postcode": "eh12",
+      "phone": "125637375845",
+      "id": 39
+    },
+    {
+      "firstName": "Danny",
+      "surname": "Pal",
+      "address": "12 gtos",
+      "postcode": "EH11 1LP",
+      "phone": "02345554566",
+      "id": 41
+    }
+  ],
+  "property": [
+    {
+      "address": "12 gtos",
+      "postcode": "EH11 1LP",
+      "price": "1300000",
+      "bedroom": "2",
+      "bathroom": "1",
+      "garden": "1",
+      "type": "SEMI",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 3,
+        "url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 20
+    },
+    {
+      "address": "10 gton",
+      "postcode": "EH11 1LP",
+      "price": "1500000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "SEMI",
+      "status": "FOR SALE",
+      "sellerID": "8",
+      "image": {
+        "id": 11,
+        "url": "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 21
+    },
+    {
+      "address": "23 gg",
+      "postcode": "eh12",
+      "price": "100000",
+      "bedroom": "4",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "APARTMENT",
+      "status": "FOR SALE",
+      "sellerID": "40",
+      "image": {
+        "id": 2,
+        "url": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 22
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "1000000",
+      "bedroom": "3",
+      "bathroom": "1",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 11,
+        "url": "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 23
+    },
+    {
+      "address": "42 Pen-y-lan Road, Cardif",
+      "postcode": "CA1 8RW",
+      "price": "200000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 1,
+        "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 24
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "300000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "39",
+      "image": {
+        "id": 8,
+        "url": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 25
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "130000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 8,
+        "url": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 26
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "130000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 5,
+        "url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 27
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "130000",
+      "bedroom": "4",
+      "bathroom": "3",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 11,
+        "url": "https://images.pexels.com/photos/3935320/pexels-photo-3935320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 28
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "130000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "41",
+      "image": {
+        "id": 1,
+        "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 29
+    },
+    {
+      "address": "34 OK plc",
+      "postcode": "eh 13",
+      "price": "130000",
+      "bedroom": "3",
+      "bathroom": "2",
+      "garden": "1",
+      "type": "DETACHED",
+      "status": "FOR SALE",
+      "sellerID": "7",
+      "image": {
+        "id": 7,
+        "url": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      "id": 30
+    }
+  ],
+  "buyer": [
+    {
+      "id": 1,
+      "firstName": "Cookiee",
+      "surname": "eel",
+      "address": "42 Pen-y-lan Road, Cardif",
+      "postcode": "CA1 8RW",
+      "phone": "123445667"
+    },
+    {
+      "firstName": "rtger",
+      "surname": "tytry",
+      "address": "12/2",
+      "postcode": "EH11 1LP",
+      "phone": "344545",
+      "id": 3
+    }
+  ],
+  "booking": [
+    {
+      "buyerId": 1,
+      "propertyId": 2,
+      "time": "2023-02-28T08:00:00.038Z",
+      "id": 2
+    },
+    {
+      "propertyId": 1,
+      "time": "2023-03-02T08:00:00.000Z",
+      "id": 3
+    }
+  ]
+}

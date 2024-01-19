@@ -1,0 +1,126 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App {
+  background-color: #fefefe;
+  height: 100vh;
+  width: 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.sd{
+  background-color: #313048;
+  overflow: hidden;
+  
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.align{
+  text-align: center;
+}
+
+
+.button-container {
+  display:flex;
+  justify-content: center;
+}
+.btnSize{
+  margin:0 5px;
+}
+
+
+
+.App-link {
+  color: rgb(58, 64, 65);
+}
+.btn-primary {
+  background-color: rgb(241, 235, 235);
+  color: #313048;
+ border-radius: 12px;
+ padding: 14px;
+ box-shadow: 7px 6px 7px rgb(233 217 217 / 18%);
+}
+.heading{
+  color:rgb(241, 235, 235);
+}
+.title.card-title.h5{
+  color:#1d1c16;
+}
+.body1{
+  background-color: white;
+  color:#44465d;  
+}
+
+
+.div1{
+ border-radius: 10px;
+  background-color:white
+}
+  
+.align1{
+  display:flex;
+  justify-content: space-between;
+  color:rgb(239, 241, 235);
+ } 
+ 
+ .carouselColor{
+  color:white;  
+ }
+ .seller-card-text-color{
+  color:#44465d;
+ }
+ 
+.card1{
+  margin:10px;
+ 
+}
+.searchBar{
+  width:30%;
+  margin-right: 10px;
+}
+
+.img-size{
+ width : 95%;
+ }
+
+
+
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
